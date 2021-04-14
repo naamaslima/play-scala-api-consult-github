@@ -1,0 +1,1 @@
+GET    /api/v1/organizations/:orgName/contributors      v1.br.com.pbsoft.controllers.ContributorsController.listByOrgs(orgName: String)

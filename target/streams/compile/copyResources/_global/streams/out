@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\naama\Documents\ProjetosScala\play-scala-api-consult-github\conf\application.conf,C:\Users\naama\Documents\ProjetosScala\play-scala-api-consult-github\target\scala-2.13\classes\application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\naama\Documents\ProjetosScala\play-scala-api-consult-github\conf\generated.keystore,C:\Users\naama\Documents\ProjetosScala\play-scala-api-consult-github\target\scala-2.13\classes\generated.keystore)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\naama\Documents\ProjetosScala\play-scala-api-consult-github\conf\logback.xml,C:\Users\naama\Documents\ProjetosScala\play-scala-api-consult-github\target\scala-2.13\classes\logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\naama\Documents\ProjetosScala\play-scala-api-consult-github\conf\routes,C:\Users\naama\Documents\ProjetosScala\play-scala-api-consult-github\target\scala-2.13\classes\routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\naama\Documents\ProjetosScala\play-scala-api-consult-github\conf\secure.conf,C:\Users\naama\Documents\ProjetosScala\play-scala-api-consult-github\target\scala-2.13\classes\secure.conf)[0m

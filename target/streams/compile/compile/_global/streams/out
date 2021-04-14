@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\naama\Documents\ProjetosScala\play-scala-rest-api-example\app\v1\br\com\pbsoft\controllers\ContributorsController.scala:30:45: not enough arguments for method listContributionsByRepository: (orgName: String, repos: String): scala.concurrent.Future[Seq[v1.br.com.pbsoft.domain.DomainModel.GitContributors]].[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter repos.[0m
+[0m[[0m[31merror[0m] [0m[0m    gitService.listContributionsByRepository(orgName)[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
